@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://admin:admin@db.az9nnfm.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET=ABCD1234
